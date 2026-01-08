@@ -2,7 +2,7 @@ This project demonstrates hosting a static website using Amazon S3. The website 
 
 
 What I did: 
-- Created an S3 bucket
+- Created an S3 bucket ![Image](https://github.com/user-attachments/assets/7892cbda-17e4-4c09-a805-a1063ebee4c7)
 - Uploaded a basic HTML website
 - Enabled static website hosting
 - Allowed public access so the site could be viewed in a browser
