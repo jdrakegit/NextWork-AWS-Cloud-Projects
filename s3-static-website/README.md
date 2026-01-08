@@ -21,7 +21,7 @@ http://your-bucket-name.s3-website-region.amazonaws.com
 ## Screenshots
 
 **Step 1: Created S3 bucket**  
-![Create Bucket](NextWork/screenshots/01-create-bucket.png)
+![Create Bucket](NextWork-AWS-Cloud-Projects/s3-static-website/screenshots/Bucket-List.jpg)
 
 **Step 2: Uploaded website files**  
 ![Upload Files](NextWork/screenshots/02-upload-files.png)
