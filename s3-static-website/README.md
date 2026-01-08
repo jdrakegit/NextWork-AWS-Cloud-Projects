@@ -12,3 +12,9 @@ Files stored and uploaded into S3:
 NextWork Folder
 index.html 
 
+
+I hosted the website on Amazon S3. The endpoint used to be:
+
+http://your-bucket-name.s3-website-region.amazonaws.com
+
+*(Note: The site is no longer live.)*
