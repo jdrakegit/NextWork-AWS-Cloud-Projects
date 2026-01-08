@@ -16,4 +16,4 @@
 
 
 
-s3-static-website/Live Website.jpg
+![Live Website](s3-static-website/Live-Website.jpg)
