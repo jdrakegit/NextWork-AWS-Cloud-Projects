@@ -13,6 +13,6 @@ Files stored and uploaded into S3:
 
 I hosted the website on Amazon S3. The endpoint used to be:
 
-http://your-bucket-name.s3-website-region.amazonaws.com
+http://my-static-website-jdrake.s3-website.us-east-2.amazonaws.com
 
 (Note: The site is no longer live.)
