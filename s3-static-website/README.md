@@ -6,3 +6,9 @@ What I did:
 - Uploaded a basic HTML website
 - Enabled static website hosting
 - Allowed public access so the site could be viewed in a browser
+
+
+Files stored and uploaded into S3:
+NextWork Folder
+index.html 
+
