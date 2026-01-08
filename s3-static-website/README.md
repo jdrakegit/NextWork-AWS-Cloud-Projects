@@ -7,7 +7,7 @@
 **Step 3: Enabled static website hosting**  
 ![Image](https://github.com/user-attachments/assets/72406570-12e4-4112-a5d4-44c3f2a20a39)
 
-**Step 4: Copied the endpoint and directed me to the website**
+**Step 4: Copied the bucket website endpoint and directed me to the website**
 ![Image](https://github.com/user-attachments/assets/4b7fa767-bccf-47a9-874f-958a316fd98b)
 
 *(The website is no longer available since the S3 bucket has been removed.)*
