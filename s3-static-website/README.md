@@ -13,3 +13,7 @@
 
 **Step 4: Website preview**  
 ![Website Preview](NextWork/screenshots/04-website-preview.png)
+
+
+
+s3-static-website/Live Website.jpg
