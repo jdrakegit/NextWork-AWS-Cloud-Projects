@@ -1,4 +1,4 @@
-Project: Host a Static Website on Amazon S3
+##Project: Host a Static Website on Amazon S3
 
 This project demonstrates hosting a static website using Amazon S3.
 The website is publicly accessible through an S3 website endpoint.
