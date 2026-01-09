@@ -10,8 +10,8 @@ The website is publicly accessible through an S3 website endpoint.
 - Configured public access so the site could be viewed in a browser
 
 ### Files Uploaded to S3
-- `index.html`
-- `NextWork` folder
+- index.html
+- NextWork folder
 
 
 **Step 1: Created S3 bucket**  
