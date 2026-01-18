@@ -36,7 +36,6 @@ to control access between development and production EC2 instances.
 ![Image](https://github.com/user-attachments/assets/b7531145-e7a1-42a1-8a9f-6af831f7d530)
 
 ### Result
-The IAM policy allows developers to manage development resources
-while preventing changes to production resources.
+The IAM policy lets developers work with development resources but blocks them from changing production resources.
 
 *(EC2 instances may be stopped or removed to avoid AWS charges.)*
