@@ -15,25 +15,25 @@ to control access between development and production EC2 instances.
 ![Image](https://github.com/user-attachments/assets/f4f2a1a4-acd1-41a2-b65a-2d073f105068)
 
 **Step 2: Created an IAM policy to control EC2 access**  
-![Step 2](screenshots/step2.png)
+![Image](https://github.com/user-attachments/assets/d93f23d8-32cd-4fa7-833b-59c00e4568ac)
 
 **Step 3: Created an AWS account alias for easier sign-in**  
-![Step 3](screenshots/step3.png)
+![Image](https://github.com/user-attachments/assets/63417731-737b-4f7f-a3ce-9194ccf3b693)
 
 **Step 4: Attached the IAM policy to a user group**  
-![Step 4](screenshots/step4.png)
+![Image](https://github.com/user-attachments/assets/38f99098-e82b-4585-a9f2-d3bd16081dad)
 
 **Step 5: Created an IAM user for development access**  
-![Step 5](screenshots/step5.png)
+![Image](https://github.com/user-attachments/assets/70e728a9-d6fb-4cf2-af26-c65732c410b7)
 
 **Step 6: Logged in as the IAM user and verified restricted access**  
-![Step 6](screenshots/step6.png)
+![Image](https://github.com/user-attachments/assets/a2bad1e7-4408-4787-945e-e62219f58424)
 
 **Step 7: Confirmed the user could NOT stop the Production EC2 instance**  
-![Step 7](screenshots/step7.png)
+![Image](https://github.com/user-attachments/assets/a729c320-32b3-49bc-9a5c-493c2d8f6968)
 
 **Step 8: Confirmed the user COULD stop the Development EC2 instance**  
-![Step 8](screenshots/step8.png)
+![Image](https://github.com/user-attachments/assets/b7531145-e7a1-42a1-8a9f-6af831f7d530)
 
 ### Result
 The IAM policy allows developers to manage development resources
